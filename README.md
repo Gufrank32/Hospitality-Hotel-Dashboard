@@ -62,12 +62,12 @@ The dashboard can be viewed interactively by opening the provided Power BI file 
 
 ## Repository Link
 
-You can view the full project on GitHub: *https://github.com/Gufrank32/Hospitality-Hotel-Dashboard*
+You can view the full project on GitHub:[Hospitality-Hotel-Dashboard](https://github.com/Gufrank32/Hospitality-Hotel-Dashboard)
 
 ## Credits
 
-- YouTube Channel: *https://www.youtube.com/@codebasics*
-- Project Video: *https://youtu.be/tT4V7zguCnc?si=VL5JYDA3vucL67Gz*
+- YouTube Channel: [codebasics](https://www.youtube.com/@codebasics)
+- Project Video: [End to End Data Analytics Project | Power BI Project | Hospitality Domain](https://youtu.be/tT4V7zguCnc?si=VL5JYDA3vucL67Gz)
 
 ## Background Inspiration
 
